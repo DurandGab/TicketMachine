@@ -8,5 +8,6 @@ public class Main {
 		machine.insertMoney(60);
 		System.out.println("L'utilisateur appuie sur 'Impression ticket'");
 		machine.printTicket();
+		//
 	}
 }
